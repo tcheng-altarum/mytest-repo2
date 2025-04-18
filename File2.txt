@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 this is file2 - original modified
-=======
 this is file2 - branch1 mod
->>>>>>> 657dec59267e262d3ad3ede51ef87b519b8bd983
